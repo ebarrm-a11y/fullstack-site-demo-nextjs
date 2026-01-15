@@ -1,0 +1,16 @@
+<mjml>
+  <mj-head>
+    <mj-preview>We received your inquiry</mj-preview>
+    <mj-style> .card { border-radius: 16px; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#0b0b0e">
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="20px" color="#ffffff" font-weight="700">NorthLens Studio</mj-text>
+        <mj-text color="#c9c9d3">Thanks for reaching out — we’ll reply with availability and a quote range shortly.</mj-text>
+        <mj-button background-color="#ffffff" color="#000000" border-radius="999px">View Portfolio</mj-button>
+        <mj-text color="#8f90a6" font-size="12px">If you didn’t request this, ignore this email.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
